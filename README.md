@@ -8,10 +8,15 @@ Pré-requesitos:
 
 ## Instalação
 
-Para instalar o projeto rode:
+Clonando o repositório:
 
 ```bash
-go install github.com/jpbrab0/sorteador-lotofacil-golang
+ github.com/jpbrab0/sorteador-lotofacil-golang
+```
+Acessando diretório:
+
+```bash
+cd sorteador-lotofacil-golang
 ```
 
 ## Rodando o projeto.
