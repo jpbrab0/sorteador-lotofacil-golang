@@ -10,9 +10,24 @@ Pré-requesitos:
 
 Clonando o repositório:
 
+Com https:
+
 ```bash
- github.com/jpbrab0/sorteador-lotofacil-golang
+git clone https://github.com/jpbrab0/sorteador-lotofacil-golang
 ```
+
+Com ssh:
+
+```bash
+git clone git@github.com:jpbrab0/sorteador-lotofacil-golang.git
+```
+
+Com github CLI:
+
+```bash
+gh repo clone jpbrab0/sorteador-lotofacil-golang
+```
+
 Acessando diretório:
 
 ```bash
