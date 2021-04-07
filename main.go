@@ -1,10 +1,10 @@
 package main
 
 import (
-	"fmt"
-	"math/rand"
+  "fmt"
+  "math/rand"
   "sort"
-	"bufio"
+  "bufio"
   "os"
   "time"
   "strconv"
